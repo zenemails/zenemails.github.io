@@ -3,14 +3,14 @@
     <title>Nicole Wade</title>
     <link href="https://nicolewadeok.com/feed.xml" rel="self" />
     <link href="https://nicolewadeok.com" />
-    <updated>2026-07-06T15:43:21-07:00</updated>
+    <updated>2026-07-07T13:02:57-07:00</updated>
     <author>
         <name>Nicole Wade</name>
     </author>
     <id>https://nicolewadeok.com</id>
 
     <entry>
-        <title>EMCare2U: Rebuilding a Cold-Audience Lifecycle System to Drive Trust and Event Conversion</title>
+        <title>Rebuilding a Cold-Audience Lifecycle System to Drive Trust and Event Conversion</title>
         <author>
             <name>Nicole Wade</name>
         </author>
@@ -23,22 +23,33 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://nicolewadeok.com/media/posts/5/Gray-and-Black-Minimalist-Furniture-Promotion-Mockup-Instagram-Post.png" alt="EMCare2U" />
-                    Role: Lead CX/Lifecycle Strategist &amp; Implementer (strategy through execution) Timeline: Audit Jan–Jul&hellip;
+                    A fragmented email program was redesigned into a segmented, trust-first lifecycle system&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://nicolewadeok.com/media/posts/5/Gray-and-Black-Minimalist-Furniture-Promotion-Mockup-Instagram-Post.png" class="type:primaryImage" alt="EMCare2U" /></p>
-                <ul>
-<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="6:1-6:84;343-426"><strong>Role:</strong> Lead CX/Lifecycle Strategist &amp; Implementer (strategy through execution)</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="7:1-7:136;427-562"><strong>Timeline:</strong> Audit Jan–Jul 2025 → reactivation sequence launched, with results tracked through Sep 2025 (later signal into Apr 2026)</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="8:1-8:155;563-717"><strong>Tools:</strong> Figma (email design), Whimsical (journey mapping), Airtable (performance analysis), Kit/ConvertKit (segmentation, tagging, and send platform)</li>
-<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="9:1-9:120;718-837"><strong>Scope:</strong> Lifecycle architecture, audience segmentation/tagging system, messaging strategy, CRM email implementation</li>
+                <p class="dropcap">A fragmented email program was redesigned into a segmented, trust-first lifecycle system for EMCare2U, a maternal health community.</p>
+<ul>
+<li><strong>Client: </strong>EMCare2U</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="6:1-6:84;343-426"><strong>Role:</strong> Lead CX/Lifecycle Strategist &amp; Implementer (strategy through execution)</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="7:1-7:136;427-562"><strong>Timeline:</strong> Audit Jan–Jul 2025 → reactivation sequence launched, with results tracked through Sep 2025 (later signal into Apr 2026)</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="8:1-8:155;563-717"><strong>Tools:</strong> Figma (email design), Whimsical (journey mapping), Airtable (performance analysis), Kit/ConvertKit (segmentation, tagging, and send platform)</li>
+<li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="9:1-9:120;718-837"><strong>Scope:</strong> Lifecycle architecture, audience segmentation/tagging system, messaging strategy, CRM email implementation </li>
 </ul>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
 <h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="13:1-13:21;785-805">Snapshot Overview</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="15:1-15:422;807-1228">EMCare2U's email program was operating as a broadcast channel, not a lifecycle system. Campaigns were sent broadly and inconsistently, audience segments overlapped or went unused, and messaging didn't differentiate between moms and birth workers at different stages of trust. Performance was uneven, and the underlying assumption — that low event attendance meant the organization needed to promote harder — was untested.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="17:1-17:520;1230-1749">This project reframed the problem: the audience wasn't just under-engaged, it was cold, under-segmented, and being asked for commitment before trust had been re-established. The resulting work replaced ad hoc sends with a tagging and journey architecture (audience, journey stage, behavior, interest), sequenced around a trust-first reactivation path rather than immediate promotion. The system was designed, built, and shipped by one person, then measured against both email behavior and downstream event registration.</p>
+<div class="cs-case-study">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-4.png" data-size="1944x1744"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-4-thumbnail.png" alt="Emails before " width="768" height="689"></a>
+<figcaption>Emails before</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up.png" data-size="1944x1744"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-thumbnail.png" alt="Emails after rebranding" width="768" height="689"></a>
+<figcaption>Emails after rebranding</figcaption>
+</figure>
+</div></div>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
 <h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="21:1-21:27;1756-1782">The Problem</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="23:1-24:284;1784-2086"><strong>System problem</strong> The email program had no lifecycle logic. Segments were incomplete and overlapping across moms, birth workers, attendees, and members. There was no tagging structure to route contacts based on behavior or interest, so every send functioned as a one-off rather than part of a journey.</p>
@@ -55,21 +66,59 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="41:1-41:40;2929-2968">Success metrics and optimization plan</li>
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="42:1-42:30;2969-2998">Stakeholder recommendations</li>
 </ul>
-<p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="44:1-44:291;3000-3290"><strong>Designed and executed:</strong> This was not a strategy-only engagement. I built the emails in Figma, mapped the journey in Whimsical, analyzed performance in Airtable, and implemented the sequence directly in the platform — the same person carrying the plan from decision to shipped experience.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="46:1-46:254;3292-3545"><strong>Stakeholder involvement:</strong> Dr. Chowa was the sole stakeholder; she reviewed and approved the strategy. There was no broader internal team on this engagement, so it's represented here as an individually-led effort, not a cross-functional collaboration.</p>
+<p data-sourcepos="46:1-46:254;3292-3545"><strong>Designed and executed:</strong> This was not a strategy-only engagement. I built the emails in Figma, mapped the journey in Whimsical, analyzed performance in Airtable, and implemented the sequence directly in the platform — the same person carrying the plan from decision to shipped experience.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/Screenshot-2026-07-07-at-12.40.25-PM.png" data-size="1261x498"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/Screenshot-2026-07-07-at-12.40.25-PM-thumbnail.png" alt="Designed in Figma" width="768" height="303"></a>
+<figcaption>Designed in Figma</figcaption>
+</figure>
+</div></div>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
 <h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="50:1-50:11;3552-3562">Process</h2>
 <h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="52:1-52:32;3564-3595">1. Audit &amp; System Diagnosis</h3>
 <p data-sourcepos="53:1-56:96;3596-3946"><strong>Goal:</strong> Understand why engagement was uneven, not just that it was. <br><strong>Analyzed:</strong> Campaign timing, segmentation, CTA clarity, content type, audience behavior across Jan–Jul 2025. <br><strong>Decision:</strong> Treat this as a systems problem, not a copywriting problem. <br><strong>Why it mattered:</strong> Set the frame for everything downstream — the fix needed to be structural.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-2.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div></div>
 <h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="58:1-58:25;3948-3972">2. Insight Synthesis</h3>
 <p data-sourcepos="59:1-62:90;3973-4311"><strong>Goal:</strong> Identify what actually drove performance differences. <br><strong>Analyzed:</strong> Top vs. bottom-performing campaigns, send-time performance, list behavior patterns. <br><strong>Decision:</strong> Prioritize relevance and trust-sequencing over send frequency or volume. <strong>Why it mattered:</strong> Countered the default instinct to "promote harder" into a cold list.</p>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="64:1-64:37;4313-4349">3. Journey &amp; Segmentation Design</h3>
-<p data-sourcepos="65:1-68:113;4350-4706"><strong>Goal:</strong> Replace ad hoc sends with a usable lifecycle structure. <br><strong>Designed:</strong> A four-part tagging system — audience, journey stage, behavior, interest. <strong>Decision:</strong> Build segmentation as reusable infrastructure, not a one-time list cleanup. <strong>Why it mattered:</strong> Enabled future nurture and event flows to route off real behavior instead of blanket sends.</p>
+</div>
+<div>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-4.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-4-thumbnail.png" alt="Top 3 Emails" width="768" height="432"></a>
+<figcaption>Top 3 Emails</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-3.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-3-thumbnail.png" alt="Bottom 3 Emails" width="768" height="432"></a>
+<figcaption>Bottom 3 Emails</figcaption>
+</figure>
+</div></div>
+</div>
+<div> </div>
+<div class="cs-case-study"><strong><span style="font-size: 1.42383em; letter-spacing: -0.54px;">3. Journey &amp; Segmentation Design</span></strong></div>
+<div class="cs-case-study"><strong style="font-size: inherit;">Goal:</strong><span style="font-size: inherit;"> Replace ad hoc sends with a usable lifecycle structure.</span></div>
+<div class="cs-case-study"><strong style="font-size: inherit;">Designed:</strong><span style="font-size: inherit;"> A four-part tagging system — audience, journey stage, behavior, interest. </span><strong style="font-size: inherit;">Decision:</strong><span style="font-size: inherit;"> Build segmentation as reusable infrastructure, not a one-time list cleanup. </span><strong style="font-size: inherit;">Why it mattered:</strong><span style="font-size: inherit;"> Enabled future nurture and event flows to route off real behavior instead of blanket sends.</span>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-2.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-2-thumbnail.png" alt="Tagging &amp; Rules" width="768" height="432"></a>
+<figcaption>Tagging &amp; Rules</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-3.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-3-thumbnail.png" alt="Post-Campaign Workflow" width="768" height="432"></a>
+<figcaption>Post-Campaign Workflow</figcaption>
+</figure>
+</div></div>
 <h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="70:1-70:42;4708-4749">4. Messaging / Narrative Architecture</h3>
 <p data-sourcepos="71:1-74:114;4750-5073"><strong>Goal:</strong> Rebuild trust before asking for commitment. <br><strong>Designed:</strong> A four-part story-led sequence, each email built around a single theme — Education → Community → Events → Resources — with single-CTA discipline per send. Emails were spaced roughly three weeks apart to build momentum without triggering fatigue. <br><strong>Decision:</strong> Sequence trust-building content ahead of ticket-sales asks, and pace it deliberately rather than sending in a tight burst. <br><strong>Why it mattered:</strong> Directly addressed the mismatch between audience readiness and what was being asked of them, while the spacing protected the reactivation from becoming its own source of disengagement.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-1.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCare2U-1-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div></div>
 <h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="76:1-76:22;5075-5096">5. Implementation</h3>
 <p data-sourcepos="77:1-80:91;5097-5449"><strong>Goal:</strong> Ship the strategy without dilution through handoff. <br><strong>Executed:</strong> Emails built in Figma, journey mapped in Whimsical, sequence implemented directly in-platform. <br><strong>Decision:</strong> Own execution personally rather than hand off to a separate production step. <strong>Why it mattered:</strong> Reduced the risk of the strategy degrading between plan and delivery.</p>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="82:1-82:31;5451-5481">6. Measurement &amp; Iteration</h3>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-5.png" data-size="1920x1080"><img loading="lazy" src="https://nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-5-thumbnail.png" alt="Templates created &amp; Implemented" width="768" height="432"></a>
+<figcaption>Templates created &amp; Implemented</figcaption>
+</figure>
+</div></div>
+<h3 data-sourcepos="77:1-80:91;5097-5449">6. Measurement &amp; Iteration</h3>
 <p data-sourcepos="83:1-86:84;5482-5896"><strong>Goal:</strong> Validate the system against both email and business signals. <br><strong>Analyzed:</strong> Opens, clicks, click-to-open rate, unsubscribes, bounce rate, and post-campaign tagging of clickers/openers/non-engaged. <br><strong>Decision:</strong> Build post-send tagging workflows so future campaigns inherit the segmentation instead of resetting each time. <br><strong>Why it mattered:</strong> Turned a single campaign into a durable, self-updating system.</p>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
 <h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="90:1-90:19;5903-5921">Key UX Insights</h2>
@@ -120,6 +169,7 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="146:1-146:18;9804-9821">Problem Framing</li>
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="147:1-147:28;9822-9849">Stakeholder Communication</li>
 </ul>
+</div>
             ]]>
         </content>
     </entry>
