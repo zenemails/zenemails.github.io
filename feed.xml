@@ -3,7 +3,7 @@
     <title>Nicole Wade ・ Professional Portfolio</title>
     <link href="https://www.nicolewadeok.com/feed.xml" rel="self" />
     <link href="https://www.nicolewadeok.com" />
-    <updated>2026-07-07T17:40:07-07:00</updated>
+    <updated>2026-07-07T18:17:26-07:00</updated>
     <author>
         <name>Nicole Wade</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://www.nicolewadeok.com/wheel-of-fortune-win-back-campaign-finding-signal-in-a-list-nobody-was-watching.html"/>
         <id>https://www.nicolewadeok.com/wheel-of-fortune-win-back-campaign-finding-signal-in-a-list-nobody-was-watching.html</id>
+        <media:content url="https://www.nicolewadeok.com/media/posts/7/figma-post-wof.png" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2026-07-07T16:53:43-07:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://www.nicolewadeok.com/media/posts/7/figma-post-wof.png" alt="" />
                     A dormant subscriber segment, surfaced during a data migration, was reactivated through&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.nicolewadeok.com/media/posts/7/figma-post-wof.png" class="type:primaryImage" alt="" /></p>
                 <p class="dropcap">A dormant subscriber segment, surfaced during a data migration, was reactivated through a waterfall win-back sequence for Wheel of Fortune, a Sony Pictures Television production.</p>
 <ul>
 <li><strong style="font-size: inherit;">Client:</strong><span style="font-size: inherit;"> Sony Pictures Television, Wheel of Fortune</span></li>
@@ -35,34 +38,35 @@
 <li><strong>Scope:</strong> Win-back campaign execution, non-opener waterfall targeting, subject-line testing, performance reporting</li>
 </ul>
 <!--Table-of-contents-->
-<div style="border: 1px solid #d8d8d0; border-radius: 8px; padding: 24px 28px; margin: 32px 0; background: #fafaf7;">
-<p style="font-weight: 600; font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; color: #0f6e56; margin: 0 0 16px;">Table of contents</p>
-<ol style="columns: 2; column-gap: 32px; margin: 0; padding-left: 20px; font-size: 15px; line-height: 2;">
-<li><a href="#mcetoc_1jsvhb09s4ee" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Snapshot Overview</a></li>
-<li><a href="#mcetoc_1jsvhb09s4ef" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">The Problem</a></li>
-<li><a href="#mcetoc_1jsvhb09s4eg" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">My Role</a></li>
-<li><a href="#mcetoc_1jsvhb09s4eh" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Process</a></li>
-<li><a href="#mcetoc_1jsvhb09s4ei" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Key UX Insights</a></li>
-<li><a href="#mcetoc_1jsvhb09s4ej" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Solution</a></li>
-<li><a href="#mcetoc_1jsvhb09s4ek" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Impact</a></li>
-<li><a href="#mcetoc_1jsvhb09s4el" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Reflection</a></li>
-<li><a href="#mcetoc_1jsvhb09s4em" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Skills Demonstrated</a></li>
-</ol>
+<h2 id="mcetoc_1jsvhb09s4ed" data-sourcepos="11:1-11:21;825-845"></h2>
+<h2 id="mcetoc_1jsvhj6v14es" data-sourcepos="11:1-11:21;825-845"></h2>
+<h2 id="mcetoc_1jsvhsjtu4eu" data-sourcepos="11:1-11:21;825-845"></h2>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1jsvhb09s4ee">Snapshot Overview</a></li>
+<li><a href="#mcetoc_1jsvhb09s4ef">The Problem</a></li>
+<li><a href="#mcetoc_1jsvhb09s4eg">My Role</a></li>
+<li><a href="#mcetoc_1jsvhb09s4eh">Process</a></li>
+<li><a href="#mcetoc_1jsvhb09s4ei">Key UX Insights</a></li>
+<li><a href="#mcetoc_1jsvhb09s4ej">Solution</a></li>
+<li><a href="#mcetoc_1jsvhb09s4ek">Impact</a></li>
+<li><a href="#mcetoc_1jsvhb09s4el">Reflection</a></li>
+<li><a href="#mcetoc_1jsvhb09s4em">Skills Demonstrated</a></li>
+</ul>
 </div>
-<!--Table-of-contents--><hr>
-<h2 data-sourcepos="11:1-11:21;825-845"></h2>
-<h2 data-sourcepos="11:1-11:21;825-845"></h2>
-<h2 data-sourcepos="11:1-11:21;825-845"></h2>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="11:1-11:21;825-845">Snapshot Overview</h2>
+<hr>
+<h2 id="mcetoc_1jsvk0kc94h6" data-sourcepos="11:1-11:21;825-845"></h2>
+<h2 id="mcetoc_1jsvhb09s4ee" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="11:1-11:21;825-845">Snapshot Overview</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="13:1-13:349;847-1195">While supporting a Sony Pictures Television data migration and training the Wheel of Fortune team on Salesforce Marketing Cloud, a large segment of the subscriber database surfaced as never having been meaningfully engaged, not decayed, simply never activated. My manager greenlit a win-back experiment rather than suppressing the segment outright.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="15:1-15:595;1197-1791">The resulting campaign used a three-wave waterfall structure, each wave narrowing to only the non-openers of the one before it, paired with subject-line testing in the final wave. I owned the tactical build, message testing, deployment, and performance reporting; a data scientist built the underlying SQL segmentation; my manager set the overall strategic direction. The system reactivated 880,000 subscribers and, based on post-campaign analysis, showed click-to-open rate improving sharply as the audience narrowed, evidence that later reused as a template for subsequent win-back campaigns.</p>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="17:1-17:15;1793-1807">The Problem</h2>
+<h2 id="mcetoc_1jsvhb09s4ef" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="17:1-17:15;1793-1807">The Problem</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="19:1-19:331;1809-2139"><strong>System problem:</strong> A meaningful segment of a 2B+ record, 17-business-unit shared subscriber database had never been folded into an active journey. There was no visibility into why, the list wasn't decayed through fatigue, it had simply never been activated, and no prior engagement data existed to inform a reactivation strategy.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="21:1-21:317;2141-2457"><strong>User experience problem:</strong> Subscribers had no established relationship with the brand's email program. A single-message approach risked treating a large, undifferentiated group identically, when the underlying question, who among them was still reachable, could only be answered by observing behavior in real time.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="23:1-23:360;2459-2818"><strong>Business constraint:</strong> This was framed internally as an experiment layered onto other concurrent workstreams (data migration, platform training, ISG reporting), not a dedicated initiative with its own research phase. Ownership was distributed across three people, which meant no single person controlled the full arc from diagnosis to strategy to execution.</p>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="25:1-25:11;2820-2830">My Role</h2>
+<h2 id="mcetoc_1jsvhb09s4eg" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="25:1-25:11;2820-2830">My Role</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="27:1-27:11;2832-2842"><strong>Owned:</strong></p>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="28:1-32:130;2843-3283">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="28:1-28:82;2843-2924">Loading segmented lists into Salesforce Marketing Cloud and deploying each wave</li>
@@ -74,7 +78,7 @@
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="34:1-34:387;3285-3671"><strong>Stakeholder involvement:</strong> My manager set the strategic direction and made the call to run a win-back experiment rather than suppress the segment. A data scientist built the SQL logic behind the audience segmentation and the non-opener waterfall targeting between waves. This is represented here as a three-person, shared-ownership effort, not an individually-led strategy engagement.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="36:1-36:264;3673-3936"><strong>Designed and executed:</strong> My contribution sat on the tactical and analytical side, execution, message testing, and the reporting that surfaced the campaign's key insight, rather than the underlying segmentation architecture or the decision to run the experiment.</p>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="38:1-38:11;3938-3948">Process</h2>
+<h2 id="mcetoc_1jsvhb09s4eh" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="38:1-38:11;3938-3948">Process</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="40:1-40:32;3950-3981"><strong>1. Audit &amp; System Diagnosis</strong></p>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="41:1-44:118;3982-4436">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="41:1-41:106;3982-4087"><strong>Goal: </strong>Understand what was in the subscriber database during an unrelated migration and training effort.</li>
@@ -118,7 +122,7 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="74:1-74:194;6822-7015"><strong>Why it mattered:</strong> Surfaced the CTOR pattern that made this campaign a reusable reference point for later win-back efforts, even though the finding came after the experiment had already closed.</li>
 </ul>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="76:1-76:19;7017-7035">Key UX Insights</h2>
+<h2 id="mcetoc_1jsvhb09s4ei" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="76:1-76:19;7017-7035">Key UX Insights</h2>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="78:1-83:161;7037-8254">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="78:1-78:208;7037-7244">A narrowing, non-opener waterfall can improve engagement quality even as raw volume declines, fewer people responding isn't automatically a worse outcome if the remaining group is more genuinely reachable.</li>
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="79:1-79:235;7245-7479">Urgency framing ("We're Taking You Off the List") outperformed loss-of-opportunity framing ("Don't Lose a Turn!") in the final, most-resistant wave, a signal about what actually moves a truly cold segment versus a mildly lapsed one.</li>
@@ -128,12 +132,12 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="83:1-83:161;8094-8254">Without knowing why a list went cold, a reactivation sequence is designed blind; the biggest gap in this project was skipping that research question entirely.</li>
 </ul>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="85:1-85:12;8256-8267">Solution</h2>
+<h2 id="mcetoc_1jsvhb09s4ej" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="85:1-85:12;8256-8267">Solution</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="87:1-87:377;8269-8645">The final system was a three-wave, non-opener waterfall reactivation sequence layered with subject-line testing in the final wave. Each wave excluded anyone who had opened a previous send, so the audience narrowed with intent rather than by attrition alone, later waves weren't the same message repeated, they were reaching a progressively more specific, more resistant group.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="89:1-89:269;8647-8915">Naming conventions moved from "Reminder" in Wave 1 to "Win_Back" in Wave 2 and 3, tracking an escalation in message strategy. The final wave's subject-line test, urgency versus loss-aversion, was decided within three hours and the winner scaled to the remaining sends.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="91:1-91:238;8917-9154">Performance reporting functioned as the system's feedback loop. It wasn't just documentation, it was the mechanism through which the CTOR pattern got identified and eventually reused as the starting template for later win-back campaigns.</p>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="93:1-93:10;9156-9165">Impact</h2>
+<h2 id="mcetoc_1jsvhb09s4ek" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="93:1-93:10;9156-9165">Impact</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="95:1-95:22;9167-9188"><strong>Behavioral impact</strong></p>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="96:1-99:42;9189-9528">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="96:1-96:70;9189-9258">880,000 re-attributions across the 3-month, 12M-subscriber campaign</li>
@@ -147,12 +151,12 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="103:1-103:262;9670-9931">Direct causation between the waterfall structure specifically and the CTOR improvement isn't established by this data alone, the clearest, most defensible link is between the urgency-framed subject line win and the strongest engagement quality of the campaign</li>
 </ul>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="105:1-105:14;9933-9946">Reflection</h2>
+<h2 id="mcetoc_1jsvhb09s4el" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="105:1-105:14;9933-9946">Reflection</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="107:1-107:210;9948-10157"><strong>What worked:</strong> Proposing the subject-line test that ended up driving the strongest result, and reading the post-campaign report closely enough to catch the CTOR pattern instead of treating it as a formality.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="109:1-109:478;10159-10636"><strong>What I'd improve:</strong> Understanding why the list had gone cold before designing the reactivation sequence, where it originated, what expectations subscribers had, if any, when they joined. We skipped that research question entirely and designed the win-back blind. I'd also want to close the insight loop faster; the CTOR pattern was found after the campaign had already ended, when it could have shaped how we approached later waves in the same campaign, not just future ones.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="111:1-111:333;10638-10970"><strong>What this taught me:</strong> A good reporting habit, actually reading the data rather than just producing it, can surface strategic insight even inside a narrowly tactical role. It also taught me that shared ownership across strategy, segmentation, and execution can still produce something reusable, as long as someone closes the loop.</p>
 <hr>
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="113:1-113:23;10972-10994">Skills Demonstrated</h2>
+<h2 id="mcetoc_1jsvhb09s4em" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="113:1-113:23;10972-10994">Skills Demonstrated</h2>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="115:1-122:25;10996-11253">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="115:1-115:30;10996-11025">Tactical CRM Implementation</li>
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="116:1-116:33;11026-11058">Message Testing &amp; Optimization</li>
@@ -194,23 +198,22 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="8:1-8:155;563-717"><strong>Tools:</strong> Figma (email design), Whimsical (journey mapping), Airtable (performance analysis), Kit/ConvertKit (segmentation, tagging, and send platform)</li>
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="9:1-9:120;718-837"><strong>Scope:</strong> Lifecycle architecture, audience segmentation/tagging system, messaging strategy, CRM email implementation </li>
 </ul>
-<!--Table-of-contents-->
-<div style="border: 1px solid #d8d8d0; border-radius: 8px; padding: 24px 28px; margin: 32px 0; background: #fafaf7;">
-<p style="font-weight: 600; font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; color: #0f6e56; margin: 0 0 16px;">Table of contents</p>
-<ol style="columns: 2; column-gap: 32px; margin: 0; padding-left: 20px; font-size: 15px; line-height: 2;">
-<li><a href="#mcetoc_1jsvid20e4gn" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Snapshot Overview</a></li>
-<li><a href="#mcetoc_1jsvid20e4go" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">The Problem</a></li>
-<li><a href="#mcetoc_1jsvid20e4gp" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">My Role</a></li>
-<li><a href="#mcetoc_1jsvid20e4gq" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Process</a></li>
-<li><a href="#mcetoc_1jsvid20e4h0" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Key UX Insights</a></li>
-<li><a href="#mcetoc_1jsvid20e4h1" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Solution</a></li>
-<li><a href="#mcetoc_1jsvid20e4h2" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Impact</a></li>
-<li><a href="#mcetoc_1jsvid20e4h3" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Reflection</a></li>
-<li><a href="#mcetoc_1jsvid20e4h4" style="color: #1a1a1a; text-decoration: none; border-bottom: 1px solid #d8d8d0;">Skills Demonstrated</a></li>
-</ol>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1jsvid20e4gn">Snapshot Overview</a></li>
+<li><a href="#mcetoc_1jsvid20e4go">The Problem</a></li>
+<li><a href="#mcetoc_1jsvid20e4gp">My Role</a></li>
+<li><a href="#mcetoc_1jsvid20e4gq">Process</a></li>
+<li><a href="#mcetoc_1jsvid20e4h0">Key UX Insights</a></li>
+<li><a href="#mcetoc_1jsvid20e4h1">Solution</a></li>
+<li><a href="#mcetoc_1jsvid20e4h2">Impact</a></li>
+<li><a href="#mcetoc_1jsvid20e4h3">Reflection</a></li>
+<li><a href="#mcetoc_1jsvid20e4h4">Skills Demonstrated</a></li>
+</ul>
 </div>
-<!--Table-of-contents--><hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="13:1-13:21;785-805">Snapshot Overview</h2>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<h2 id="mcetoc_1jsvid20e4gn" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="13:1-13:21;785-805">Snapshot Overview</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="15:1-15:422;807-1228">EMCare2U's email program was operating as a broadcast channel, not a lifecycle system. Campaigns were sent broadly and inconsistently, audience segments overlapped or went unused, and messaging didn't differentiate between moms and birth workers at different stages of trust. Performance was uneven, and the underlying assumption — that low event attendance meant the organization needed to promote harder — was untested.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="17:1-17:520;1230-1749">This project reframed the problem: the audience wasn't just under-engaged, it was cold, under-segmented, and being asked for commitment before trust had been re-established. The resulting work replaced ad hoc sends with a tagging and journey architecture (audience, journey stage, behavior, interest), sequenced around a trust-first reactivation path rather than immediate promotion. The system was designed, built, and shipped by one person, then measured against both email behavior and downstream event registration.</p>
 <div class="cs-case-study">
@@ -223,12 +226,12 @@
 </figure>
 </div></div>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="21:1-21:27;1756-1782">The Problem</h2>
+<h2 id="mcetoc_1jsvid20e4go" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="21:1-21:27;1756-1782">The Problem</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="23:1-24:284;1784-2086"><strong>System problem</strong> The email program had no lifecycle logic. Segments were incomplete and overlapping across moms, birth workers, attendees, and members. There was no tagging structure to route contacts based on behavior or interest, so every send functioned as a one-off rather than part of a journey.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="26:1-27:280;2088-2395"><strong>User experience problem</strong> Messaging treated dissimilar audiences the same way. Promotional asks (buy a ticket, attend an event) arrived before enough context, relevance, or emotional trust had been established — creating a mismatch between where the audience actually was and what was being asked of them.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="29:1-30:280;2397-2700"><strong>Business constraint</strong> The organization needed to grow event attendance and partnerships <em>now</em>, which created pressure to keep promoting into a cold list — the opposite of what the underlying engagement data supported. Any redesign had to improve structure without stalling near-term business momentum.</p>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="34:1-34:11;2707-2717">My Role</h2>
+<h2 id="mcetoc_1jsvid20e4gp" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="34:1-34:11;2707-2717">My Role</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="36:1-36:22;2719-2740"><strong>Owned end-to-end:</strong></p>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="37:1-42:30;2741-2998">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="37:1-37:55;2741-2795">Lifecycle strategy and customer journey architecture</li>
@@ -246,13 +249,13 @@
 </figure>
 </div></div>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="50:1-50:11;3552-3562">Process</h2>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="52:1-52:32;3564-3595">1. Audit &amp; System Diagnosis</h3>
+<h2 id="mcetoc_1jsvid20e4gq" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="50:1-50:11;3552-3562">Process</h2>
+<h3 id="mcetoc_1jsvid20e4gr" class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="52:1-52:32;3564-3595">1. Audit &amp; System Diagnosis</h3>
 <p data-sourcepos="53:1-56:96;3596-3946"><strong>Goal:</strong> Understand why engagement was uneven, not just that it was. <br><strong>Analyzed:</strong> Campaign timing, segmentation, CTA clarity, content type, audience behavior across Jan–Jul 2025. <br><strong>Decision:</strong> Treat this as a systems problem, not a copywriting problem. <br><strong>Why it mattered:</strong> Set the frame for everything downstream — the fix needed to be structural.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
 <figure class="gallery__item"><a href="https://www.nicolewadeok.com/media/posts/5/gallery/EMCare2U-2.png" data-size="1920x1080"><img loading="lazy" src="https://www.nicolewadeok.com/media/posts/5/gallery/EMCare2U-2-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div></div>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="58:1-58:25;3948-3972">2. Insight Synthesis</h3>
+<h3 id="mcetoc_1jsvid20e4gs" class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="58:1-58:25;3948-3972">2. Insight Synthesis</h3>
 <p data-sourcepos="59:1-62:90;3973-4311"><strong>Goal:</strong> Identify what actually drove performance differences. <br><strong>Analyzed:</strong> Top vs. bottom-performing campaigns, send-time performance, list behavior patterns. <br><strong>Decision:</strong> Prioritize relevance and trust-sequencing over send frequency or volume. <strong>Why it mattered:</strong> Countered the default instinct to "promote harder" into a cold list.</p>
 </div>
 <div>
@@ -277,23 +280,23 @@
 <figcaption>Post-Campaign Workflow</figcaption>
 </figure>
 </div></div>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="70:1-70:42;4708-4749">4. Messaging / Narrative Architecture</h3>
+<h3 id="mcetoc_1jsvid20e4gt" class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="70:1-70:42;4708-4749">4. Messaging / Narrative Architecture</h3>
 <p data-sourcepos="71:1-74:114;4750-5073"><strong>Goal:</strong> Rebuild trust before asking for commitment. <br><strong>Designed:</strong> A four-part story-led sequence, each email built around a single theme — Education → Community → Events → Resources — with single-CTA discipline per send. Emails were spaced roughly three weeks apart to build momentum without triggering fatigue. <br><strong>Decision:</strong> Sequence trust-building content ahead of ticket-sales asks, and pace it deliberately rather than sending in a tight burst. <br><strong>Why it mattered:</strong> Directly addressed the mismatch between audience readiness and what was being asked of them, while the spacing protected the reactivation from becoming its own source of disengagement.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.nicolewadeok.com/media/posts/5/gallery/EMCare2U.png" data-size="1920x1080"><img loading="lazy" src="https://www.nicolewadeok.com/media/posts/5/gallery/EMCare2U-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://www.nicolewadeok.com/media/posts/5/gallery/EMCare2U-1.png" data-size="1920x1080"><img loading="lazy" src="https://www.nicolewadeok.com/media/posts/5/gallery/EMCare2U-1-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div></div>
-<h3 class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="76:1-76:22;5075-5096">5. Implementation</h3>
+<h3 id="mcetoc_1jsvid20e4gu" class="text-text-100 mt-2 -mb-1 text-base font-bold" data-sourcepos="76:1-76:22;5075-5096">5. Implementation</h3>
 <p data-sourcepos="77:1-80:91;5097-5449"><strong>Goal:</strong> Ship the strategy without dilution through handoff. <br><strong>Executed:</strong> Emails built in Figma, journey mapped in Whimsical, sequence implemented directly in-platform. <br><strong>Decision:</strong> Own execution personally rather than hand off to a separate production step. <strong>Why it mattered:</strong> Reduced the risk of the strategy degrading between plan and delivery.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
 <figure class="gallery__item"><a href="https://www.nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-5.png" data-size="1920x1080"><img loading="lazy" src="https://www.nicolewadeok.com/media/posts/5/gallery/EMCARE2U-90-Day-Partnership-Wrap-Up-5-thumbnail.png" alt="Templates created &amp; Implemented" width="768" height="432"></a>
 <figcaption>Templates created &amp; Implemented</figcaption>
 </figure>
 </div></div>
-<h3 data-sourcepos="77:1-80:91;5097-5449">6. Measurement &amp; Iteration</h3>
+<h3 id="mcetoc_1jsvid20e4gv" data-sourcepos="77:1-80:91;5097-5449">6. Measurement &amp; Iteration</h3>
 <p data-sourcepos="83:1-86:84;5482-5896"><strong>Goal:</strong> Validate the system against both email and business signals. <br><strong>Analyzed:</strong> Opens, clicks, click-to-open rate, unsubscribes, bounce rate, and post-campaign tagging of clickers/openers/non-engaged. <br><strong>Decision:</strong> Build post-send tagging workflows so future campaigns inherit the segmentation instead of resetting each time. <br><strong>Why it mattered:</strong> Turned a single campaign into a durable, self-updating system.</p>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="90:1-90:19;5903-5921">Key UX Insights</h2>
+<h2 id="mcetoc_1jsvid20e4h0" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="90:1-90:19;5903-5921">Key UX Insights</h2>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="92:1-98:115;5923-6836">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="92:1-92:124;6315-6438">Broad, unsegmented sends suppress engagement even when message quality is high — relevance, not reach, drove performance.</li>
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="93:1-93:380;6439-6818">A cold audience responds poorly to immediate conversion asks; trust has to be re-established before higher-commitment requests will land. A vulnerable, first-person subject line ("Postpartum Changed Me") on the first reactivation email produced the sequence's highest click-to-open rate — evidence that authenticity, not polish, was the trust signal this audience responded to.</li>
@@ -304,12 +307,12 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="98:1-98:115;7354-7468">Engagement problems that look like content or copy issues are often lifecycle and sequencing issues in disguise.</li>
 </ul>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="102:1-102:30;6843-6872">Solution</h2>
+<h2 id="mcetoc_1jsvid20e4h1" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="102:1-102:30;6843-6872">Solution</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="104:1-104:360;7506-7865">The rebuilt system replaced one-off broadcast sends with a lifecycle architecture built in Kit (ConvertKit) and organized around four tag categories: <strong>audience</strong> (birth worker, mom/parent), <strong>journey stage</strong> (welcome, nurture, reactivation), <strong>behavior</strong> (opened, clicked, event signup, cold), and <strong>interest</strong> (events, mental health, postpartum, pregnancy).</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="106:1-106:363;7867-8229">The reactivation sequence sits at the center of this system as the bridge between a cold, untagged list and future nurture or event-conversion paths. Rather than leading with promotion, the sequence is paced to deliver value and rebuild emotional relevance first, using single-CTA messaging per email so each send asks for one clear, appropriately-scaled action.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="108:1-108:398;8231-8628">Post-send, contacts are tagged based on behavior (clicked, opened, non-engaged), feeding them into differentiated follow-up paths instead of being reabsorbed into the general list. This closes the loop: segmentation informs messaging, messaging generates behavioral data, and that data re-segments the audience for the next cycle — turning what was a static list into a system that updates itself.</p>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="112:1-112:10;7959-7968">Impact</h2>
+<h2 id="mcetoc_1jsvid20e4h2" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="112:1-112:10;7959-7968">Impact</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="114:1-114:22;7970-7991"><strong>Behavioral impact</strong></p>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="115:1-118:183;7992-8357">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="115:1-115:66;7992-8057">Open rates up to <strong>46.2%</strong>; click-to-open rates up to <strong>11.5%</strong></li>
@@ -323,12 +326,12 @@
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="122:1-122:290;8486-8775">The redesigned lifecycle system coincided with this growth; email strategy alone should not be read as the sole cause, but the trust-first, segmented approach plausibly contributed to stronger conditions for registration by improving relevance and audience structure ahead of each event.</li>
 </ul>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="126:1-126:14;8782-8795">Reflection</h2>
+<h2 id="mcetoc_1jsvid20e4h3" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="126:1-126:14;8782-8795">Reflection</h2>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="128:1-128:295;8797-9091"><strong>What worked:</strong> Resequencing the funnel — trust before conversion — was the right call against the instinct to promote harder into a cold audience. The segmentation and tagging architecture gave the system a way to keep improving itself after launch, rather than resetting with every campaign.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="130:1-130:254;9093-9346"><strong>What I'd improve:</strong> The discovery phase relied on campaign analytics and business goals rather than direct qualitative input. Talking to moms, birth workers, or attendees directly would have sharpened both the messaging and the journey design further.</p>
 <p class="font-claude-response-body break-words whitespace-normal" data-sourcepos="132:1-132:205;9348-9552"><strong>What this taught me:</strong> Engagement problems are frequently misdiagnosed as content problems. The deeper issue is usually trust, audience fit, and sequencing — and the fix is a system, not a better email.</p>
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
-<h2 class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="136:1-136:23;9559-9581">Skills Demonstrated</h2>
+<h2 id="mcetoc_1jsvid20e4h4" class="text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold" data-sourcepos="136:1-136:23;9559-9581">Skills Demonstrated</h2>
 <ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3" data-sourcepos="138:1-147:28;9583-9849">
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="138:1-138:19;9583-9601">Systems Thinking</li>
 <li class="font-claude-response-body whitespace-normal break-words pl-2" data-sourcepos="139:1-139:30;9602-9631">Lifecycle Strategy &amp; Design</li>
